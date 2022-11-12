@@ -1,0 +1,26 @@
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= a, Marca del auto= , Modelo del auto= 
+
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= 456, Marca del auto= Hyundai, Modelo del auto= 2021
+
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= 123, Marca del auto= Mazda, Modelo del auto= 2021
+
+Placa del auto= a, Marca del auto= b, Modelo del auto= c
+
+Placa del auto= a, Marca del auto= b, Modelo del auto= c
+
+Placa del auto= a, Marca del auto= b, Modelo del auto= c
+
+Placa del auto= a, Marca del auto= b, Modelo del auto= c
+
